@@ -1,3 +1,3 @@
 # Machine_Learning_Stanford
 
-Octave files for the course
+Lecture notes for the course

@@ -1,6 +1,6 @@
 # Options is a data structure which saves what options you want
 # GradObj means you will provide gradient for the function
-# initialTheta is guess
+# initialTheta is guess, needs to be two dimensional vector or higher
 # exitFlag shows whether there was convergence
 
 # To run optimization, enter the three lines of code below
